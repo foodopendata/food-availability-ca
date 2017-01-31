@@ -1,0 +1,44 @@
+{
+  "name": "food-available-major-group-Canada",
+  "title": "Food available by major groups in Canada",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2017-01-31",
+  "licenses": [{
+    "type": "ODC-PDDL-1.0",
+    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+  }],
+  "sources": [{
+    "name": "Statistics Canada",
+    "web": "http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0030007&&pattern=&stByVal=1&p1=1&p2=35&tabMode=dataTable&csid="
+  }],
+  "resources": [{
+    "url": "https://raw.github.com/schoolofdata-ch/food-available-major-group-Canada/master/data/food-available-major-group-Canada.csv",
+    "path": "data/food-comp-data-fr.csv",
+    "schema": {
+      "fields": [{
+        "name": "Commodity",
+        "description": "Type of food product",
+        "type": "string"
+      }, {
+        "name": "Supply and disposition",
+        "description": "Supply, total, Ending stocks, etc",
+        "type": "string"
+      }, {
+
+        "name": "Year/Month",
+        "description": "Year / Month",
+        "type": "numeric"
+
+      }]
+    }
+  }, {
+    "name": "Limitation and exception",
+    "description": "Limitation and exception",
+    "type": "string"
+  }],
+  "maintainers": [{
+    "name": "School of Data",
+    "web": "https://www.schoolofdata.ch/"
+  }]
+}
