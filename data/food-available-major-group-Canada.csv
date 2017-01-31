@@ -1,0 +1,53 @@
+"Table 002-0019 Food available by major groups in Canada, annual (kilograms per person, per year unless otherwise noted)"
+Survey or program details:
+Miller's Monthly Report - 3403
+Fruits and Vegetables Survey - 3407
+Quarterly Stocks Survey - Frozen and Chilled Meats - 3423
+Dairy Factory Production and Stocks - 3430
+Livestock Survey - 3460
+Food Availability (per person) - 3475
+Geography,Food categories,Commodity,2007,2008,2009,2010,2011
+Canada,"Food available (1,2)","Total fruits (4,8)",138.07,134.32,130.96,130.17,
+Canada,"Food available (1,2)",Fresh fruits,73.13,73.69,73.58,74.43,
+Canada,"Food available (1,2)",Total processed fruits,9.64,10.13,10.04,17.89,
+Canada,"Food available (1,2)",Total processed fruits (fresh equivalent),18.52,18.16,17.71,17.89,
+Canada,"Food available (1,2)","Fruit juice (litres per person, per year)",26.87,24.80,22.95,21.80,
+Canada,"Food available (1,2)",Fruit juice (fresh equivalent),46.41,42.48,39.67,37.85,
+Canada,"Food available (1,2)","Total vegetables (4,9)",175.65,170.77,176.41,173.06,
+Canada,"Food available (1,2)","Total vegetables (excluding potatoes) (4,9)",111.25,107.60,113.27,111.49,
+Canada,"Food available (1,2)",Fresh vegetables,136.32,132.54,138.38,135.17,
+Canada,"Food available (1,2)",Fresh vegetables (excluding potatoes),71.92,69.36,75.24,73.60,
+Canada,"Food available (1,2)",Total processed vegetables,17.96,17.37,17.39,17.13,
+Canada,"Food available (1,2)",Total processed vegetables (fresh equivalent),38.11,37.10,37.08,36.97,
+Canada,"Food available (1,2)","Vegetable juice (litres per person, per year)",1.21,1.14,0.96,0.91,
+Canada,"Food available (1,2)",Vegetable juice (fresh equivalent),1.21,1.14,0.96,0.91,
+Canada,"Food available (1,2)","Total juices (litres per person, per year)",28.08,25.94,23.91,22.72,
+Canada,"Food available (1,2)",Oils and fats,27.04,26.11,25.77,24.57,
+Canada,"Food available (1,2)",Cereal products,82.24,79.08,79.71,76.95,
+Canada,"Food available (1,2)","Alcoholic beverages, total population (litres per person, per year)",89.22,90.06,89.21,87.29,
+Canada,"Food available (1,2)","Alcoholic beverages, population 15 years old and over (litres per person, per year)",107.58,108.29,107.02,104.49,
+Canada,"Food available (1,2)",Total dairy products (5),23.43,22.84,22.19,21.72,
+Canada,"Food available (1,2)","Fluid milk (litres per person, per year)",83.01,81.92,81.27,77.98,
+Canada,"Food available (1,2)","Total creams (litres per person, per year)",8.72,8.45,8.41,8.21,
+Canada,"Food available (1,2)",Total cheeses,12.32,12.39,12.42,12.41,
+Canada,"Food available (1,2)",Other dairy products,27.07,26.41,25.04,25.73,
+Canada,"Food available (1,2)","Red meats, carcass weight",59.04,56.11,55.43,52.71,51.69
+Canada,"Food available (1,2)","Red meats, boneless weight",41.36,39.26,38.94,36.95,35.99
+Canada,"Food available (1,2)","Red meats, retail weight",44.44,42.21,41.82,39.72,38.76
+Canada,"Food available (1,2)","Poultry, boneless weight",23.88,24.11,23.71,23.59,23.51
+Canada,"Food available (1,2)","Poultry, eviscerated weight",38.26,38.57,37.96,37.82,37.72
+Canada,"Food available (1,2)","Eggs (dozens per person, per year)",15.54,16.24,16.06,16.39,16.80
+Canada,"Food available (1,2)",Fish (6),8.60,7.41,8.22,7.70,8.62
+Canada,"Food available (1,2)",Pulses and nuts,8.78,8.74,8.19,8.51,
+Canada,"Food available (1,2)",Sugars and syrups,31.72,32.09,33.29,31.24,
+Footnotes:
+1,"Does not adjust for losses, such as waste and/or spoilage, in stores, households, private institutions or restaurants or losses during preparation."
+2,In retail weight unless otherwise specified.
+4,In fresh equivalent weight.
+5,In milk solid equivalent.
+6,In edible weight equivalent.
+8,"Includes fresh fruits, processed fruits in fresh equivalent and fruit juices in fresh equivalent."
+9,"Includes fresh vegetables, processed vegetables in fresh equivalent and tomato juice in fresh equivalent."
+Source:
+"Statistics Canada. Table 002-0019 - Food available by major groups in Canada, annual (kilograms per person, per year unless otherwise noted)"
+"(accessed: January 31, 2017)"
