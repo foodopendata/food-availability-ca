@@ -1,5 +1,5 @@
 {
-  "name": "food-available-major-group-Canada",
+  "name": "food-availability-ca",
   "title": "Food available by major groups in Canada",
   "format": "csv",
   "datapackage_version": "1.0.0",
@@ -13,32 +13,76 @@
     "web": "http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0030007&&pattern=&stByVal=1&p1=1&p2=35&tabMode=dataTable&csid="
   }],
   "resources": [{
-    "url": "https://raw.github.com/schoolofdata-ch/food-available-major-group-Canada/master/data/food-available-major-group-Canada.csv",
-    "path": "data/food-comp-data-fr.csv",
+    "path": "data/00020019-eng.csv",
     "schema": {
       "fields": [{
-        "name": "Commodity",
-        "description": "Type of food product",
-        "type": "string"
-      }, {
-        "name": "Supply and disposition",
-        "description": "Supply, total, Ending stocks, etc",
-        "type": "string"
-      }, {
-
-        "name": "Year/Month",
-        "description": "Year / Month",
+        "name": "Ref_Date",
+        "description": "Year of record",
         "type": "numeric"
+      }, {
+        "name": "GEO",
+        "description": "Country (CAN = Canada)",
+        "type": "string"
+      }, {
 
+        "name": "FOOD",
+        "description": "Type of indicator",
+        "type": "numeric"
+      }, {
+        "name": "COM",
+        "description": "Type of food",
+        "type": "string"
+      }, {
+        "name": "Vector",
+        "description": "",
+        "type": "string"
+      }, {
+        "name": "Coordinate",
+        "description": "",
+        "type": "string"
+      }, {
+        "name": "Value",
+        "description": "Measure in kilograms per person, per year",
+        "type": "numeric"
       }]
     }
-  }, {
-    "name": "Limitation and exception",
-    "description": "Limitation and exception",
-    "type": "string"
+  },{
+    "path": "data/00020019-fra.csv",
+    "schema": {
+      "fields": [{
+        "name": "Date_Réf",
+        "description": "Year of record",
+        "type": "numeric"
+      }, {
+        "name": "GEO",
+        "description": "Country (CAN = Canada)",
+        "type": "string"
+      }, {
+
+        "name": "FOOD",
+        "description": "Type of indicator",
+        "type": "numeric"
+      }, {
+        "name": "COM",
+        "description": "Type of food",
+        "type": "string"
+      }, {
+        "name": "Vecteur",
+        "description": "",
+        "type": "string"
+      }, {
+        "name": "Coordonnée",
+        "description": "",
+        "type": "string"
+      }, {
+        "name": "Valeur",
+        "description": "Measure in kilograms per person, per year",
+        "type": "numeric"
+      }]
+    }
   }],
   "maintainers": [{
-    "name": "School of Data",
+    "name": "School of Data Switzerland",
     "web": "https://www.schoolofdata.ch/"
   }]
 }
